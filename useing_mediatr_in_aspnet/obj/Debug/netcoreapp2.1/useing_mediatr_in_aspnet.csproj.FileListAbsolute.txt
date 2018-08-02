@@ -1,0 +1,14 @@
+X:\github\Using_MediatR_in_AspNet\useing_mediatr_in_aspnet\bin\Debug\netcoreapp2.1\useing_mediatr_in_aspnet.deps.json
+X:\github\Using_MediatR_in_AspNet\useing_mediatr_in_aspnet\bin\Debug\netcoreapp2.1\useing_mediatr_in_aspnet.runtimeconfig.json
+X:\github\Using_MediatR_in_AspNet\useing_mediatr_in_aspnet\bin\Debug\netcoreapp2.1\useing_mediatr_in_aspnet.runtimeconfig.dev.json
+X:\github\Using_MediatR_in_AspNet\useing_mediatr_in_aspnet\bin\Debug\netcoreapp2.1\useing_mediatr_in_aspnet.dll
+X:\github\Using_MediatR_in_AspNet\useing_mediatr_in_aspnet\obj\Debug\netcoreapp2.1\useing_mediatr_in_aspnet.csprojAssemblyReference.cache
+X:\github\Using_MediatR_in_AspNet\useing_mediatr_in_aspnet\obj\Debug\netcoreapp2.1\useing_mediatr_in_aspnet.csproj.CoreCompileInputs.cache
+X:\github\Using_MediatR_in_AspNet\useing_mediatr_in_aspnet\obj\Debug\netcoreapp2.1\useing_mediatr_in_aspnet.RazorAssemblyInfo.cache
+X:\github\Using_MediatR_in_AspNet\useing_mediatr_in_aspnet\obj\Debug\netcoreapp2.1\useing_mediatr_in_aspnet.RazorAssemblyInfo.cs
+X:\github\Using_MediatR_in_AspNet\useing_mediatr_in_aspnet\obj\Debug\netcoreapp2.1\useing_mediatr_in_aspnet.AssemblyInfoInputs.cache
+X:\github\Using_MediatR_in_AspNet\useing_mediatr_in_aspnet\obj\Debug\netcoreapp2.1\useing_mediatr_in_aspnet.AssemblyInfo.cs
+X:\github\Using_MediatR_in_AspNet\useing_mediatr_in_aspnet\obj\Debug\netcoreapp2.1\useing_mediatr_in_aspnet.RazorTargetAssemblyInfo.cache
+X:\github\Using_MediatR_in_AspNet\useing_mediatr_in_aspnet\bin\Debug\netcoreapp2.1\useing_mediatr_in_aspnet.pdb
+X:\github\Using_MediatR_in_AspNet\useing_mediatr_in_aspnet\obj\Debug\netcoreapp2.1\useing_mediatr_in_aspnet.dll
+X:\github\Using_MediatR_in_AspNet\useing_mediatr_in_aspnet\obj\Debug\netcoreapp2.1\useing_mediatr_in_aspnet.pdb
